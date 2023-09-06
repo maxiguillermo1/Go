@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">#7285A5</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">#FF5722</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated, which is used to tint widgets -->
+        <item name="colorAccent">#73C2FB</item>
+
+        <!-- You can also define android:textColor and android:background here -->
+    </style>
+
+    <!-- Custom theme for your app -->
+    <style name="Theme.Go" parent="AppTheme">
+        <!-- Customize the Theme.Go style attributes here -->
+
+        <!-- For example, you can change the colorPrimary, colorAccent, etc. -->
+        <item name="colorPrimary">#73C2FB</item>
+        <item name="colorPrimaryDark">#7285A5</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+</resources>

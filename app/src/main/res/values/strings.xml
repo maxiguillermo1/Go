@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Go</string>
+
+
+    <string-array name="kana">
+        <item>a</item><item>i</item><item>u</item><item>e</item><item>o</item>
+        <item>ka</item><item>ki</item><item>ku</item><item>ke</item><item>ko</item>
+        <item>sa</item><item>shi</item><item>su</item><item>se</item><item>so</item>
+        <item>ta</item><item>chi</item><item>tu</item><item>te</item><item>to</item>
+        <item>na</item><item>ni</item><item>nu</item><item>ne</item><item>no</item>
+        <item>ha</item><item>hi</item><item>fu</item><item>he</item><item>ho</item>
+        <item>ma</item><item>mi</item><item>mu</item><item>me</item><item>mo</item>
+        <item>ya</item><item>yu</item><item>yo</item><item>wa</item><item>wo</item>
+        <item>ra</item><item>ri</item><item>ru</item><item>re</item><item>ro</item>
+        <item>n</item>
+    </string-array>
+
+
+    <string name="source">Txt Source : App Hiragana Katakana </string>
+    <string name="select_answer">Please select an answer</string>
+    <string name="question_count">Question %1$d/%2$d</string>
+    <string name="confirm">Confirm</string>
+    <string name="score">Score: %1$d</string>
+    <string name="answer1_correct">Answer 1 is correct</string>
+    <string name="answer2_correct">Answer 2 is correct</string>
+    <string name="answer3_correct">Answer 3 is correct</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="press_back_again">Press back again to finish</string>
+
+</resources>

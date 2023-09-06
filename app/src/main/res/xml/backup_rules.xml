@@ -1,0 +1,6 @@
+<backup_rules>
+    <!-- Define backup preferences here -->
+    <!-- Example: -->
+    <!-- <preference name="enable_auto_backup" value="true" /> -->
+    <!-- <preference name="backup_frequency" value="daily" /> -->
+</backup_rules>
