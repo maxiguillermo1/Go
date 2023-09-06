@@ -1,6 +1,6 @@
-# Go
+# Go!
 
-Title: Learn Nihongo on the GO!
+# Learn Nihongo on the GO!
 
 Learn Nihongo on the GO! GO! is an Android application programmed in designed for learning the Japanese characters of Hiragana and Katakana.
 
