@@ -26,3 +26,4 @@ Scoring Metrics:
 The mini quiz displays a real-time score and the total number of questions answered by the user.
 Overall, Learn Nihongo on the GO! is a functional tool for individuals interested in learning or improving their understanding of Hiragana and Katakana.
 
+![Homepage](homepage.jpg)
