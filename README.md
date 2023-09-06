@@ -24,6 +24,8 @@ A 30-second timer is incorporated into the mini quiz, encouraging users to answe
 
 Scoring Metrics:
 The mini quiz displays a real-time score and the total number of questions answered by the user.
+
+
 Overall, Learn Nihongo on the GO! is a functional tool for individuals interested in learning or improving their understanding of Hiragana and Katakana.
 
 ## Go-Homepage
