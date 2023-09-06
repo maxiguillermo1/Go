@@ -46,11 +46,11 @@ Overall, Learn Nihongo on the GO! is a functional tool for individuals intereste
 
 ![Quiz Starting](quizstarting.jpg)
 
-## Quiz Function 1
+## Quiz Functionality #1
 
 ![Quiz Function 1](quizfunction1.jpg)
 
-## Quiz Function 2
+## Quiz Functionality #2
 
 ![Quiz Function 2](quizfunction2.jpg)
 
