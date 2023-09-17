@@ -64,4 +64,4 @@ Android Studio Application in kotlin programmed by ...
 and 
 
 ## Maxwell Guillermo 
-
+## Reyna Aguirre-Okamune
