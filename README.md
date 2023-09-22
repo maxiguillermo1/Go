@@ -59,9 +59,5 @@ Overall, Learn Nihongo on the GO! is a software application for individuals inte
 
 Android Studio Application in kotlin programmed by ...
 
-## [Name 1] 
-
-and 
-
 ## Maxwell Guillermo 
 ## Reyna Aguirre-Okamune
